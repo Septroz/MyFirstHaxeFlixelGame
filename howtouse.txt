@@ -1,0 +1,8 @@
+1. Get haxe.
+2. Run "haxelib setup"
+3. Run "haxelib install flixel"
+4. Run "haxelib run flixel-setup"
+5. Run "haxelib install lime"
+6. Run "haxelib run lime setup"
+7. Run "CD "YourGameInstalliationDirectory""
+Final step. Run "lime test html5"
